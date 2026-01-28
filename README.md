@@ -5,7 +5,7 @@ A simple front-end Job Portal built completely from scratch using **HTML and CSS
 This project focuses on understanding core web development concepts such as page structure, layout, and basic styling without using templates or website builders.
 
 ##  Live Demo
-https://24bcy70145-vshesh-jobportal.netlify.app
+https://24bcy70145-vishesh-jobportal.netlify.app
 
 ## 🛠 Technologies Used
 - HTML5
