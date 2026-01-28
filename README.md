@@ -1,4 +1,4 @@
-# Job Portal – Build by myself From Scratch 💼
+# Job Portal – Build by myself From Scratch 
 
 A simple front-end Job Portal built completely from scratch using **HTML and CSS**.
 
