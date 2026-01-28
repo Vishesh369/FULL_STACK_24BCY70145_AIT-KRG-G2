@@ -18,7 +18,8 @@ UID: 24BCY70145
 > This project was fully designed and coded by me as part of my learning journey.
 
 
----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+
 
 # Job Portal – Build by me with a little sopilot assistance
 
