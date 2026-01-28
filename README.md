@@ -21,7 +21,7 @@ UID: 24BCY70145
 -----------------------------------------------------------------------------------------
 
 
-# Job Portal – Build by me with a little sopilot assistance
+# Job Portal – Build by me with a little Copilot assistance
 
 A multi-page Job Portal web application built using **HTML, CSS, and Bootstrap**, with improved layout and responsiveness.
 
