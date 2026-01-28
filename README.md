@@ -12,7 +12,7 @@ https://24bcy70145-vshesh-jobportal.netlify.app
 - CSS3
 
 ##  Author
-**Vishesh Aggarwal**  
+**Vishesh Aggarwal**
 UID: 24BCY70145
 
 > This project was fully designed and coded by me as part of my learning journey.
