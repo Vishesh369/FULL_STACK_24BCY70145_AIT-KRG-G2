@@ -1,0 +1,90 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.form-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-bottom: 30px;
+}
+
+.row {
+    display: flex;
+    gap: 15px;
+}
+
+.field {
+    flex: 1;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 6px;
+    margin-top: 4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 8px;
+    width: 100%;
+    background-color: #3498db;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+.profile-container {
+    display: none;
+}
+
+.profile-card {
+    background-color: white;
+    padding: 20px;
+    border-left: 5px solid #3498db;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.profile-card h3 {
+    margin: 0;
+}
+
+.profile-card p {
+    margin: 5px 0;
+}
+
+.skills-box {
+    margin-top: 10px;
+}
+
+.skills-box ul {
+    padding-left: 20px;
+}
