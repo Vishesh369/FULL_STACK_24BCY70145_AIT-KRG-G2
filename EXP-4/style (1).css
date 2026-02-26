@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #fdfbfb, #ebedee);
+    padding: 40px;
+}
+
+.page-wrapper {
+    max-width: 900px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 32px;
+    color: #444;
+}
+
+.subtitle {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #777;
+}
+
+/* Form Styling */
+.form-box {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    margin-bottom: 35px;
+}
+
+.row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 14px;
+}
+
+textarea {
+    margin-bottom: 15px;
+    resize: none;
+}
+
+input:focus, select:focus, textarea:focus {
+    outline: none;
+    border-color: #6c63ff;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: #6c63ff;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #5848e5;
+}
+
+/* Job Cards */
+.job-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.job-card {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 6px solid #6c63ff;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.05);
+}
+
+.job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.job-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.salary {
+    background: #f1f0ff;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    color: #6c63ff;
+}
+
+.company {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #666;
+}
+
+.location {
+    font-size: 13px;
+    color: #888;
+    margin-top: 3px;
+}
+
+.description {
+    margin-top: 12px;
+    font-size: 14px;
+    color: #444;
+}
+
+.delete-btn {
+    margin-top: 15px;
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    background: #ff6b6b;
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    background: #e85050;
+}
